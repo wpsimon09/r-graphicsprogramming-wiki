@@ -102,10 +102,11 @@ This list is aimed towards people that are looking for concrete resources with a
 - [Transitioning from OpenGL to Vulkan](https://developer.nvidia.com/transitioning-opengl-vulkan)
 - [Vulkan Spec](https://registry.khronos.org/vulkan/specs/1.1/html/vkspec.html) [documentation]
 - [Vulkan Hub](https://vkdoc.net/) [documentation]
+- [How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/) 
 - [API Without Secrets](https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-1.html) [article]
 - [Vulkan In 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html) [article]
 - [Vulkan Guide](https://vkguide.dev/) [book]
-- [Vulkan Tutorial](https://vulkan-tutorial.com/) [book]
+- [Vulkan Tutorial](https://docs.vulkan.org/tutorial/latest/00_Introduction.html) [book]
 - [Vulkan Examples](https://github.com/SaschaWillems/Vulkan) [source code]
 - [I am Graphics and So Can You](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1) [article]
 - [Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) [article]
